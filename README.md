@@ -34,31 +34,31 @@ This project presents a five-page interactive Power BI report designed to help m
 
 Summarizes net revenue, total spend, marketing profit, ROAS, conversions, and average order value. It also explores monthly revenue trends and revenue by city and marketing channel.
 
-![Marketing Overview](Dashboard/marketing-overview.PNG)
+![Marketing Overview](Dashboard/Dashboard1.PNG)
 
 ### 2. Campaign Performance
 
 Compares campaign spend, revenue, conversions, campaign objectives, revenue rankings, and ROAS across campaigns.
 
-![Campaign Performance](Dashboard/campaign-performance.PNG)
+![Campaign Performance](Dashboard/Dashboard2.PNG)
 
 ### 3. Channel & Platform Analysis
 
 Compares channels and platforms using conversions, marketing spend, revenue, CTR, conversion rate, and ROAS.
 
-![Channel & Platform Analysis](Dashboard/channel-platform-analysis.PNG)
+![Channel & Platform Analysis](Dashboard/Dashboard3.PNG)
 
 ### 4. Customer & Conversion Analysis
 
 Reviews the impressions-to-orders funnel, customer segments, acquisition sources, customer age, gender, leads, conversions, and customer acquisition cost.
 
-![Customer & Conversion Analysis](Dashboard/customer-conversion-analysis.PNG)
+![Customer & Conversion Analysis](Dashboard/Dashboard4.PNG)
 
 ### 5. ROI & Management
 
 Compares revenue and conversions against targets, reviews ROAS versus target, and provides a channel management scorecard.
 
-![ROI & Management](Dashboard/roi-management.PNG)
+![ROI & Management](Dashboard/Dashboard5.PNG)
 
 ## Selected Insights
 
