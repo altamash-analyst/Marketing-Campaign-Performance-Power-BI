@@ -113,19 +113,3 @@ Mumbai, India
 - Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
 
 Open to Data Analyst, Business Analyst, BI Analyst, and Power BI Developer opportunities.
-
-## GitHub Repository Metadata
-
-**Repository name:** `Marketing-Campaign-Performance-Power-BI`
-
-**Suggested repository description:**
-
-> Power BI marketing campaign analytics dashboard exploring revenue, spend, conversions, ROAS, ROI, channel performance, customer acquisition, and target achievement using a synthetic practice dataset.
-
-**Recommended GitHub topics:**
-
-`power-bi` `marketing-analytics` `campaign-performance` `digital-marketing` `marketing-roi` `roas` `customer-acquisition` `conversion-funnel` `data-analytics` `business-intelligence` `dashboard` `microsoft-excel` `Altamash-Analyst`
-
----
-
-*Portfolio project demonstrating marketing performance reporting and business intelligence with Power BI and Excel.*
